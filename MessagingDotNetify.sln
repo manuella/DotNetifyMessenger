@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingDotNetify", "MessagingDotNetify\MessagingDotNetify.csproj", "{D08825A3-76A5-43A9-9ED6-7896D33B5711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08825A3-76A5-43A9-9ED6-7896D33B5711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08825A3-76A5-43A9-9ED6-7896D33B5711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08825A3-76A5-43A9-9ED6-7896D33B5711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08825A3-76A5-43A9-9ED6-7896D33B5711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90F5E8CB-0744-4A47-9965-D9BAFDFC70D3}
+	EndGlobalSection
+EndGlobal
